@@ -14,13 +14,11 @@
 
 - Vite :
 
-  - [Photo carousel demo](demo) / / [Photo carousel repo](repolink)
-
-### Tailwind CSS
+  - [Photo carousel demo](demo) / [Photo carousel repo](repolink)
 
 ## React
 
-PART I :
+### PART I
 
 - Components, props, JSX :
 
@@ -35,13 +33,13 @@ PART I :
 
   - [Eat-n-split demo](demo) / [Eat-n-split repo](repolink)
 
-PART II
+### PART II
 
 - Components reusability, useEffect, data fetching, custom hooks, useRef, useReducer :
 
   - [usePopcorn demo](repolink) / [usePopcorn repo](repolink)
 
-PART III :
+### PART III
 
 - useReducer :
 
@@ -55,7 +53,7 @@ PART III :
 
   - [Bank account demo](demo) / [Bank account repo](repo)
 
-PART IV :
+### PART IV
 
 - React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS :
 
