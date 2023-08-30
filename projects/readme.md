@@ -4,9 +4,17 @@
 
 ### Build tools
 
-1. ESBuild => [Photo carousel demo](demo) / [Photo carousel repo](repolink)
-2. Parcel => [Photo carousel demo](demo) / [Photo carousel repo](repolink)
-3. Vite => [Photo carousel demo](demo) / / [Photo carousel repo](repolink)
+- ESBuild :
+
+  - [Photo carousel demo](demo) / [Photo carousel repo](repolink)
+
+- Parcel :
+
+  - [Photo carousel demo](demo) / [Photo carousel repo](repolink)
+
+- Vite :
+
+  - [Photo carousel demo](demo) / / [Photo carousel repo](repolink)
 
 ### Tailwind CSS
 
@@ -14,23 +22,48 @@
 
 PART I :
 
-1. Components, props, JSX => [Pizza Menu demo](https://pizza-menu-props-jsx-components.vercel.app/) / [Pizza Menu repo](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx)
-2. useState and state management => [Travel List demo](demo) / [Travel List repo](repolink)
-3. Practice project => [Eat-n-split demo](demo) / [Eat-n-split repo](repolink)
+- Components, props, JSX :
+
+  - [Pizza Menu demo](https://pizza-menu-props-jsx-components.vercel.app/) / [Pizza Menu repo](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx)
+
+- useState and state management :
+
+  - [React Quizz](demo) / [React Quizz repo](repolink)
+  - [Travel List demo](demo) / [Travel List repo](repolink)
+
+- Practice project :
+
+  - [Eat-n-split demo](demo) / [Eat-n-split repo](repolink)
 
 PART II
 
-1. useEffect, data fetching, custom hooks => [usePopcorn demo](repolink) / [usePopcorn repo](repolink)
-2. Class components => [Classy weather demo](repolink) / [Classy weather repo](repolink)
-3. useReducer => [Quiz App demo](demo) / [Quiz App repo](repolink)
+- Components reusability, useEffect, data fetching, custom hooks, useRef, useReducer :
+
+  - [usePopcorn demo](repolink) / [usePopcorn repo](repolink)
 
 PART III :
 
-1. React Router, context API, memo, useMemo, useCallback => [WorldWise demo](demo) / [WorldWise repo](repo)
+- useReducer :
 
-2. React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS => [Fast React Pizza demo](demo) / [Fast React Pizza repo](repo)
+  - [Quiz App demo](demo) / [Quiz App repo](repolink)
 
-3. React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development => [The Wild Oasis demo](demo) / [The Wild Oasis repo](repolink)
+- React Router, context API, memo, useMemo, useCallback :
+
+  - [WorldWise demo](demo) / [WorldWise repo](repo)
+
+- Redux and Redux toolkit :
+
+  - [Bank account demo](demo) / [Bank account repo](repo)
+
+PART IV :
+
+- React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS :
+
+  - [Fast React Pizza demo](demo) / [Fast React Pizza repo](repo)
+
+- React Query, Styled Components, React Hook Form, Supabase, professional application planning and development :
+
+  - [The Wild Oasis demo](demo) / [The Wild Oasis repo](repolink)
 
 ## React for production
 
@@ -38,11 +71,7 @@ PART III :
 
 ### Production-ready React/TS apps
 
-Check out [projects technical decisions explained](link)
-
-Overview :
-
-- We chose a `feature-based project structure` for all the projects.
+- `feature-based project structure` for all the projects.
 
 - The applications requires multiple `rendering strategies` (server-side rendering, client-side rendering, static generation) so we chose `Nextjs`
 
