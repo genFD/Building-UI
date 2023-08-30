@@ -69,28 +69,20 @@
 
 ### Production-ready React/TS apps
 
-- `feature-based project structure` for all the projects.
+#### Technical choices
 
-- The applications requires multiple `rendering strategies` (server-side rendering, client-side rendering, static generation) so we chose `Nextjs`
+- Feature-based project structure for all the projects.
+- The applications requires multiple rendering strategies (server-side rendering, client-side rendering, static generation) so we chose Nextjs
+- For state management : Zustand, React Query, React Hook Form
+- For styling : Tailwind
+- The authentication strategy : cookie-based
+- For unit test : Jest
+- For integration test :
+- For end-to-end test : Cypress
 
-- For `state management` : Zustand, React Query, React Hook Form
+#### Projects
 
-- For `styling` : Tailwind
-
-- The `authentication` strategy : cookie-based
-
-- For `unit test` : Jest
-
-- For `integration test` :
-
-- For `end-to-end test` : Cypress
-
-Projects :
-
-1. audiophile : [audiophile demo](audiophile) / [audiophile repo](repo)
-
-2. Invoice : [Invoice demo](jobboard) / [Invoice repo](repo)
-
-3. Feedback : [Feedback demo](jobboard) / [Feedback repo](repo)
-
-4. Job board: [Job board demo](jobboard) / [Job board repo](repo)
+- audiophile : [audiophile demo](audiophile) / [audiophile repo](repo)
+- Invoice : [Invoice demo](jobboard) / [Invoice repo](repo)
+- Feedback : [Feedback demo](jobboard) / [Feedback repo](repo)
+- Job board: [Job board demo](jobboard) / [Job board repo](repo)
