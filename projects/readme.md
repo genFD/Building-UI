@@ -1,4 +1,4 @@
-# Table of contents - Building UI
+# Projects - Building UI
 
 ## Extras
 
