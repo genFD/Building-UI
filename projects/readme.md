@@ -24,7 +24,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART I
 
-| Themes                        | App         | Repo                                                                                       | demo                                                                                       |
+| Concepts                      | App         | Repo                                                                                       | demo                                                                                       |
 | ----------------------------- | ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Components, props, JSX        | Pizza Menu  | [Link](https://pizza-menu-props-jsx-components.vercel.app/)                                | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) |
 | useState and state management | React Quizz | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) |
@@ -32,7 +32,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART II
 
-| Themes                 | App           | Repo | demo |
+| Concepts               | App           | Repo | demo |
 | ---------------------- | ------------- | ---- | ---- |
 | Components reusability | usePopcorn    | Done | -    |
 | useEffect              | v2            | Done | -    |
@@ -43,7 +43,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART III
 
-| Themes                  | App          | Repo | demo |
+| Concepts                | App          | Repo | demo |
 | ----------------------- | ------------ | ---- | ---- |
 | useReducer              | Quiz App     | -    | -    |
 | React Router            | WorldWise v1 | -    | -    |
@@ -55,7 +55,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART IV
 
-| Themes                    | App                 | Repo | demo |
+| Concepts                  | App                 | Repo | demo |
 | ------------------------- | ------------------- | ---- | ---- |
 | React Router data loading | Fast React Pizza v1 | -    | -    |
 | Redux                     | -                   | -    | -    |
