@@ -43,15 +43,15 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART III
 
-| Concepts                | App          | Repo                                                                                   | demo                                                                                   |
-| ----------------------- | ------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| useReducer              | Quiz App     | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| React Router            | WorldWise v1 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| context API             | WorldWise v2 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| memo                    | WorldWise v3 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| useMemo                 | WorldWise v4 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| useCallback             | WorldWise v5 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
-| Redux and Redux toolkit | Bank account | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) --> |
+| Concepts                | App          | Repo                                                                               | demo                                                                               |
+| ----------------------- | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| useReducer              | Quiz App     | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| React Router            | WorldWise v1 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| context API             | WorldWise v2 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| memo                    | WorldWise v3 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| useMemo                 | WorldWise v4 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| useCallback             | WorldWise v5 | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
+| Redux and Redux toolkit | Bank account | [Repo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) | [Demo](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) |
 
 <!-- Redux and Redux toolkit Link : [Link](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) -->
 
