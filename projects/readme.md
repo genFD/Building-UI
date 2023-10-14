@@ -6,23 +6,19 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### Build tools
 
-| Themes        | App            | Repo | Repo |
-| ------------- | -------------- | ---- | ---- |
-| ESBuild       | Photo carousel | Done | Done |
-| Parcel        | Photo carousel | Done | Done |
-| Vite          | Photo carousel | Done | Done |
-| DB Migrations | TypeORM        | Done | Done |
+#### ESBuild, Parcel, Vite
 
-<!-- | Themes          | App               | Repo | Repo |
-| --------------- | ----------------- | ---- | ---- |
-| Authentication  | JWT               | Done | Done |
-| Authorization   | RBAC (Role based) | Done | Done |
-| ORM Integration | TypeORM           | Done | Done |
-| DB Migrations   | TypeORM           | Done | Done | -->
+| Themes  | App            | Repo | Repo |
+| ------- | -------------- | ---- | ---- |
+| ESBuild | Photo carousel | Done | Done |
+| Parcel  | Photo carousel | Done | Done |
+| Vite    | Photo carousel | Done | Done |
 
 ## React
 
 ### PART I
+
+#### Components, props, JSX, useState and state management
 
 | Concepts                      | App         | Repo                                                                                       | demo                                                                                       |
 | ----------------------------- | ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
@@ -31,6 +27,8 @@ For this section, we will be using the very popular [react](https://github.com/f
 | Practice project              | Travel List | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) |
 
 ### PART II
+
+#### Components reusability, useEffect, data fetching, custom hooks, useRef, useReducer
 
 | Concepts               | App           | Repo | demo |
 | ---------------------- | ------------- | ---- | ---- |
@@ -42,6 +40,8 @@ For this section, we will be using the very popular [react](https://github.com/f
 | useReducer             | usePopcorn v6 | Done | -    |
 
 ### PART III
+
+#### useReducer, React Router, context API, useMemo , useCallback, Redux and Redux toolkit
 
 | Concepts                | App          | Repo                                                                               | demo                                                                               |
 | ----------------------- | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -57,6 +57,8 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ### PART IV
 
+#### React Router data loading , Redux , Redux Toolkit, Thunks , Tailwind CSS , useCallback , React Query , Styled Components, Supabase
+
 | Concepts                  | App                 | Repo | demo |
 | ------------------------- | ------------------- | ---- | ---- |
 | React Router data loading | Fast React Pizza v1 | -    | -    |
@@ -71,11 +73,11 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ## React for production
 
-### React and typescript
+### Production-ready Nextjs application
 
-### Production-ready React/TS apps
+#### Nextjs, React and typescript, Zustand, React Query, React Hook Form, Tailwind, Jest, Cypress
 
-#### Technical choices
+##### Technical choices
 
 - Feature-based project structure for all the projects.
 - The applications requires multiple rendering strategies (server-side rendering, client-side rendering, static generation) so we chose Nextjs
@@ -86,9 +88,9 @@ For this section, we will be using the very popular [react](https://github.com/f
 - For integration test :
 - For end-to-end test : Cypress
 
-#### Projects
+<!-- #### Projects
 
 - audiophile : [audiophile demo](audiophile) / [audiophile repo](repo)
 - Invoice : [Invoice demo](jobboard) / [Invoice repo](repo)
 - Feedback : [Feedback demo](jobboard) / [Feedback repo](repo)
-- Job board: [Job board demo](jobboard) / [Job board repo](repo)
+- Job board: [Job board demo](jobboard) / [Job board repo](repo) -->
