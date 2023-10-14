@@ -16,9 +16,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ## React
 
-### PART I
-
-#### Components, props, JSX, useState and state management
+### PART I : Components, props, JSX, useState and state management
 
 | Concepts                      | App         | Repo                                                                                       | demo                                                                                       |
 | ----------------------------- | ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
@@ -26,9 +24,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 | useState and state management | React Quizz | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) |
 | Practice project              | Travel List | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) | [Link](https://github.com/hermkan/react-part-I-projects/tree/main/01-components-props-jsx) |
 
-### PART II
-
-#### Components reusability, useEffect, data fetching, custom hooks, useRef, useReducer
+### PART II : Components reusability, useEffect, data fetching, custom hooks, useRef, useReducer
 
 | Concepts               | App           | Repo | demo |
 | ---------------------- | ------------- | ---- | ---- |
@@ -39,9 +35,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 | useRef                 | v5            | Done | -    |
 | useReducer             | usePopcorn v6 | Done | -    |
 
-### PART III
-
-#### useReducer, React Router, context API, useMemo , useCallback, Redux and Redux toolkit
+### PART III : useReducer, React Router, context API, useMemo , useCallback, Redux and Redux toolkit
 
 | Concepts                | App          | Repo                                                                               | demo                                                                               |
 | ----------------------- | ------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -55,9 +49,7 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 <!-- Redux and Redux toolkit Link : [Link](https://github.com/genFD/react-part-III-projects/tree/main/04-bank-account) -->
 
-### PART IV
-
-#### React Router data loading , Redux , Redux Toolkit, Thunks , Tailwind CSS , useCallback , React Query , Styled Components, Supabase
+### PART IV : React Router data loading , Redux , Redux Toolkit, Thunks , Tailwind CSS , useCallback , React Query , Styled Components, Supabase
 
 | Concepts                  | App                 | Repo | demo |
 | ------------------------- | ------------------- | ---- | ---- |
@@ -73,11 +65,9 @@ For this section, we will be using the very popular [react](https://github.com/f
 
 ## React for production
 
-### Production-ready Nextjs application
+### Production-ready React application : Nextjs, React and typescript, Zustand, React Query, React Hook Form, Tailwind, Jest, Cypress
 
-#### Nextjs, React and typescript, Zustand, React Query, React Hook Form, Tailwind, Jest, Cypress
-
-##### Technical choices
+#### Technical choices
 
 - Feature-based project structure for all the projects.
 - The applications requires multiple rendering strategies (server-side rendering, client-side rendering, static generation) so we chose Nextjs
